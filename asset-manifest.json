@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/ValeriiaOliinyk/goit-react-hw-01-components/static/css/main.28f75340.chunk.css",
-    "main.js": "/ValeriiaOliinyk/goit-react-hw-01-components/static/js/main.8ef407bc.chunk.js",
-    "main.js.map": "/ValeriiaOliinyk/goit-react-hw-01-components/static/js/main.8ef407bc.chunk.js.map",
+    "main.css": "/ValeriiaOliinyk/goit-react-hw-01-components/static/css/main.3cfd42c8.chunk.css",
+    "main.js": "/ValeriiaOliinyk/goit-react-hw-01-components/static/js/main.8a56ea25.chunk.js",
+    "main.js.map": "/ValeriiaOliinyk/goit-react-hw-01-components/static/js/main.8a56ea25.chunk.js.map",
     "runtime-main.js": "/ValeriiaOliinyk/goit-react-hw-01-components/static/js/runtime-main.43bb7fbd.js",
     "runtime-main.js.map": "/ValeriiaOliinyk/goit-react-hw-01-components/static/js/runtime-main.43bb7fbd.js.map",
     "static/css/2.4b502e0b.chunk.css": "/ValeriiaOliinyk/goit-react-hw-01-components/static/css/2.4b502e0b.chunk.css",
     "static/js/2.5a467cb9.chunk.js": "/ValeriiaOliinyk/goit-react-hw-01-components/static/js/2.5a467cb9.chunk.js",
     "static/js/2.5a467cb9.chunk.js.map": "/ValeriiaOliinyk/goit-react-hw-01-components/static/js/2.5a467cb9.chunk.js.map",
     "index.html": "/ValeriiaOliinyk/goit-react-hw-01-components/index.html",
-    "precache-manifest.ca4bc0ece7c2e9ce99aef555c308da47.js": "/ValeriiaOliinyk/goit-react-hw-01-components/precache-manifest.ca4bc0ece7c2e9ce99aef555c308da47.js",
+    "precache-manifest.633ea0a0ee9bfb2af505fcf6cd8472fb.js": "/ValeriiaOliinyk/goit-react-hw-01-components/precache-manifest.633ea0a0ee9bfb2af505fcf6cd8472fb.js",
     "service-worker.js": "/ValeriiaOliinyk/goit-react-hw-01-components/service-worker.js",
     "static/css/2.4b502e0b.chunk.css.map": "/ValeriiaOliinyk/goit-react-hw-01-components/static/css/2.4b502e0b.chunk.css.map",
-    "static/css/main.28f75340.chunk.css.map": "/ValeriiaOliinyk/goit-react-hw-01-components/static/css/main.28f75340.chunk.css.map",
+    "static/css/main.3cfd42c8.chunk.css.map": "/ValeriiaOliinyk/goit-react-hw-01-components/static/css/main.3cfd42c8.chunk.css.map",
     "static/js/2.5a467cb9.chunk.js.LICENSE.txt": "/ValeriiaOliinyk/goit-react-hw-01-components/static/js/2.5a467cb9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.43bb7fbd.js",
     "static/css/2.4b502e0b.chunk.css",
     "static/js/2.5a467cb9.chunk.js",
-    "static/css/main.28f75340.chunk.css",
-    "static/js/main.8ef407bc.chunk.js"
+    "static/css/main.3cfd42c8.chunk.css",
+    "static/js/main.8a56ea25.chunk.js"
   ]
 }

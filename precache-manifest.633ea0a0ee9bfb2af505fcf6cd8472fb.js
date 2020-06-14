@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1758e90d66729d1f3f62dd3bfbc28238",
+    "revision": "64f233889401d575119dd4bc2eb73853",
     "url": "/ValeriiaOliinyk/goit-react-hw-01-components/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ValeriiaOliinyk/goit-react-hw-01-components/static/css/2.4b502e0b.chunk.css"
   },
   {
-    "revision": "074378e917baac306478",
-    "url": "/ValeriiaOliinyk/goit-react-hw-01-components/static/css/main.28f75340.chunk.css"
+    "revision": "262f860c3761babe95bf",
+    "url": "/ValeriiaOliinyk/goit-react-hw-01-components/static/css/main.3cfd42c8.chunk.css"
   },
   {
     "revision": "c919d66e4f5220644ffc",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ValeriiaOliinyk/goit-react-hw-01-components/static/js/2.5a467cb9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "074378e917baac306478",
-    "url": "/ValeriiaOliinyk/goit-react-hw-01-components/static/js/main.8ef407bc.chunk.js"
+    "revision": "262f860c3761babe95bf",
+    "url": "/ValeriiaOliinyk/goit-react-hw-01-components/static/js/main.8a56ea25.chunk.js"
   },
   {
     "revision": "81b1ae27cfcf8b21ffa4",
